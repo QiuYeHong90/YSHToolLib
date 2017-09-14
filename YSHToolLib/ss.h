@@ -1,5 +1,5 @@
 //
-//  Tool.h
+//  ss.h
 //  QiuRongShop
 //
 //  Created by 赵 on 2017/9/14.
@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface Tool : NSObject
+@interface ss : NSObject
 
 @end
